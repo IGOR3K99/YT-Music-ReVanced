@@ -165,9 +165,9 @@ wait
 rm -rf temp/tmp.*
 if [ -z "$(ls -A1 "${BUILD_DIR}")" ]; then abort "All builds failed."; fi
 
-log "\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs"
-log "Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store"
-log "\n[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)\n"
+log "\nInstall [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube RVX APK"
+log "\nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-app](https://github.com/j-hc/zygisk-detach-app/releases) to detach root YouTube RVX from Play Store"
+log "\n[ReVanced-Extended](https://github.com/IGOR3K99/ReVanced-Extended)\n"
 log "$(cat "$TEMP_DIR"/*-rv/changelog.md)"
 
 SKIPPED=$(cat "$TEMP_DIR"/skipped 2>/dev/null || :)
