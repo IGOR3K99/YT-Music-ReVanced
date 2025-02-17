@@ -1,5 +1,5 @@
-Music (arm64-v8a): 8.06.51  
-Music (arm-v7a): 8.06.51  
+YT-Music (arm64-v8a): 8.06.51  
+YT-Music (arm-v7a): 8.06.51  
 YouTube: 19.50.40  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube RVX APK  
