@@ -11,8 +11,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 version = "19.50.40"
 
-[Music]
+[YouTube Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-arch = "both"
 build-mode = "both"
 version = "8.06.51"
