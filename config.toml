@@ -10,9 +10,3 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 version = "19.50.41"
-
-[YT-Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-build-mode = "both"
-arch = "both"
-version = "8.06.51"
