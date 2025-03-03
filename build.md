@@ -1,5 +1,3 @@
-YT-Music (arm64-v8a): 8.06.51  
-YT-Music (arm-v7a): 8.06.51  
 YouTube: 19.50.41  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube RVX APK  
@@ -9,5 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 [ReVanced-Extended](https://github.com/IGOR3K99/ReVanced-Extended)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.12.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.12.0)  
+Patches: ReVanced/patches-5.13.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)  
