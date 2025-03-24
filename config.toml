@@ -14,7 +14,7 @@ rv-brand = "ReVanced"
 build-mode = "both"
 version = "20.10.40"
 
-[Music]
+[YT-Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
