@@ -14,3 +14,11 @@ rv-brand = "ReVanced"
 build-mode = "both"
 version = "20.10.40"
 
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "ReVanced"
+arch = "both"
+build-mode = "both"
+version = "8.10.51"
