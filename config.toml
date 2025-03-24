@@ -13,7 +13,6 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced"
 build-mode = "both"
 version = "20.10.40"
-patcher-args = "-OsettingsMenuIcon=revanced -OapplyToAll=true -OiconType=youtube "
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
@@ -23,4 +22,3 @@ rv-brand = "ReVanced"
 arch = "both"
 build-mode = "both"
 version = "8.10.52"
-patcher-args = "-OsettingsMenuIcon=revanced -OapplyToAll=true "
