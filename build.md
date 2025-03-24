@@ -1,5 +1,5 @@
-Music (arm64-v8a): 8.10.52  
-Music (arm-v7a): 8.10.52  
+YT-Music (arm64-v8a): 8.10.52  
+YT-Music (arm-v7a): 8.10.52  
 YouTube: 20.10.40  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube ReVanced or YouTube Music APK  
