@@ -14,7 +14,7 @@ rv-brand = "ReVanced"
 build-mode = "both"
 version = "20.10.40"
 included-patches = "'Custom branding'"
-patcher-args = "-OappName=YouTube -OiconPath=youtube "
+excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom header for YouTube'"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
