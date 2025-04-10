@@ -13,12 +13,4 @@ integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced"
 build-mode = "both"
 version = "20.12.46"
-
-[YT-Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
-rv-brand = "ReVanced"
-arch = "both"
-build-mode = "both"
-version = "8.13.51"
+excluded-patches = '"Seekbar components"'
