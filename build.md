@@ -7,5 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 [ReVanced](https://github.com/IGOR3K99/ReVanced)
   
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: anddea/patches-3.7.0.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.7.0)  
+Patches: anddea/patches-3.8.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.8.0)  
