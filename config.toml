@@ -8,9 +8,6 @@ parallel-jobs = 1
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "anddea/revanced-patches"
-integrations-source = "anddea/revanced-integrations"
 rv-brand = "ReVanced"
 build-mode = "both"
 version = "20.12.46"
-excluded-patches = '"Seekbar components"'
