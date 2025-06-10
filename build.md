@@ -6,6 +6,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 
 [ReVanced](https://github.com/IGOR3K99/ReVanced)
   
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.26.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.26.0)  
+CLI: revanced/revanced-cli-5.0.1-all.jar  
+Patches: ReVanced/patches-5.27.0.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.27.0)  
