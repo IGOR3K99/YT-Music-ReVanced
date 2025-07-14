@@ -10,4 +10,4 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 cli-source = "revanced/revanced-cli"
 build-mode = "both"
-version = "20.16.40"
+version = "20.14.41"
