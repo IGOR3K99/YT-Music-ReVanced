@@ -10,7 +10,6 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
-patches-version = "dev"
 cli-source = "inotia00/revanced-cli"
 arch = "both"
 build-mode = "both"
