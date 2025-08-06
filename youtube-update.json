@@ -1,6 +1,6 @@
 {
-  "version": "v20.23.40 (patches: 3.11.0)",
-  "versionCode": 43,
-  "zipUrl": "https://github.com/IGOR3K99/ReVanced/releases/download/43/youtube-revanced-magisk-v20.23.40-all.zip",
+  "version": "v20.23.40 (patches: dev.1)",
+  "versionCode": 45,
+  "zipUrl": "https://github.com/IGOR3K99/ReVanced/releases/download/45/youtube-revanced-magisk-v20.23.40-all.zip",
   "changelog": "https://raw.githubusercontent.com/IGOR3K99/ReVanced/update/build.md"
 }

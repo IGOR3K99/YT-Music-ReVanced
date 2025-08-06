@@ -1,5 +1,4 @@
-YT-Music (arm64-v8a): 8.30.52  
-YT-Music (arm-v7a): 8.30.52  
+YouTube: 20.23.40  
 
 Install [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music ReVanced APK  
 
@@ -8,5 +7,5 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-ap
 [ReVanced](https://github.com/IGOR3K99/ReVanced)
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: anddea/patches-3.11.0.rvp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.11.0)  
+Patches: anddea/patches-3.11.1-dev.1.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.11.1-dev.1)  
