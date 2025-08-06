@@ -167,7 +167,7 @@ if [ -z "$(ls -A1 "${BUILD_DIR}")" ]; then abort "All builds failed."; fi
 
 log "\nInstall [MicroG-RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube/YouTube Music ReVanced APK"
 log "\nUse [zygisk-detach](https://github.com/j-hc/zygisk-detach) and [zygisk-detach-app](https://github.com/j-hc/zygisk-detach-app/releases) to detach root YouTube/YouTube Music ReVanced from Play Store"
-log "\n[YT-Music-ReVanced](https://github.com/IGOR3K99/YT-Music-ReVanced)\n"
+log "\n[ReVanced](https://github.com/IGOR3K99/ReVanced)\n"
 log "$(cat "$TEMP_DIR"/*-rv/changelog.md)"
 
 SKIPPED=$(cat "$TEMP_DIR"/skipped 2>/dev/null || :)
