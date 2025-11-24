@@ -23,7 +23,7 @@ cli-source = "revanced/revanced-cli"             # where to fetch cli from. defa
 rv-brand = "ReVanced Extended" # rebrand from 'ReVanced' to something different. default: "ReVanced"
 
 patches-version = "latest" # 'latest', 'dev', or a version number. default: "latest"
-cli-version = "latest"       # 'latest', 'dev', or a version number. default: "latest"
+cli-version = "dev"       # 'latest', 'dev', or a version number. default: "latest"
 
 [Some-App]
 app-name = "SomeApp" # if set, release name becomes SomeApp instead of Some-App. default is same as table name, which is 'Some-App' here.
